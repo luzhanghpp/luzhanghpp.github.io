@@ -4,9 +4,7 @@ title: ""
 ---
 
 Preprints:
-1. L. Zhang. A discontinuous Galerkin method for nonlienar biharmonic Schrodinger equations, 2021, [link](https://arxiv.org/abs/2105.11515)
-2. L. Zhang. An energy based discontinuous Galerkin method for wave equations in fourth-order form, 2021, [link](https://arxiv.org/abs/2105.11515)
-3. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021, [link](https://arxiv.org/abs/2105.11515)
+1. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021, [link](https://arxiv.org/abs/2105.11515)
 
 Papers:
 1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on Comm. Appl. Math. Comput, [link](https://arxiv.org/abs/2105.01722)
