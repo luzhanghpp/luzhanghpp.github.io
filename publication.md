@@ -9,7 +9,7 @@ Preprints:
 3. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021
 
 Papers:
-1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on Comm. Appl. Math. Comput, link(https://en.wikipedia.org/wiki/Euler%27s_formula)
+1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on Comm. Appl. Math. Comput
 2. N. Rodriguez, Q. Wang, and L. Zhang. Understanding the effects of on- and off-hotspot policing: Evidence of hotspot, oscillating and chaotic activities, 2021, to appear on SIAM J. Appl. Dyn. Syst
 3. L. Zhang, S. Wang and N.A. Petersson. Elastic wave propagation in curvilinear coordinates with mesh refinement interfaces by a fourth order finite difference method, SIAM J. Sci. Comput., 43(2), A1472-A1496 (2021)
 4. D. Appelo, T. Hagstrom, Q. Wang and L. Zhang. An energy-based discontinuous Galerkin method for semilinear wave equations, J. Comput. Phys., 418(2020)
