@@ -4,7 +4,7 @@ title: ""
 ---
 
 Preprints:
-1. L. Zhang. A discontinuous Galerkin method for nonlienar biharmonic Schrodinger equations, 2021,[Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics)
+1. L. Zhang. A discontinuous Galerkin method for nonlienar biharmonic Schrodinger equations, 2021
 2. L. Zhang. An energy based discontinuous Galerkin method for wave equations in fourth-order form, 2021
 3. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021
 
@@ -18,7 +18,7 @@ Papers:
 7. Y. Du, L. Zhang and Z. Zhang. Convergence analysis of a discontinuous Galerkin method for wave equations in second-order form, SIAM J. Numer. Anal., 57(1), 238-265(2019)
 8. Q. Wang, J. Yang, and L. Zhang. Time–periodic and stable patterns of two–competing Keller–Segel chemotaxis model: Effect of cellular growth, Discrete Contin. Dyn. Syst. Ser. B, 22(9), 3547-3574(2017)
 9. Q. Wang, and L. Zhang. On the multi–dimensional advective Lotka–Volterra competition systems, Nonlinear Anal. Real World Appl., 37, 329-349(2017)
-10. Q. Wang, L. Zhang, J. Yang and J. Hu. Global existence and steady states of a two competing species Keller–Segel chemotaxis model, Kinet. Relat. Models, 8(4), 777-807(2015)
+10. Q. Wang, L. Zhang, J. Yang and J. Hu. Global existence and steady states of a two competing species Keller–Segel chemotaxis model, Kinet. Relat. Models, 8(4), 777-807(2015), [link](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.777)
 
 Conference Proceeding
 1. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin Methods for Electromagnetic Waves in Dispersive Media, 2021, submitted
