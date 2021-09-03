@@ -4,7 +4,7 @@ title: ""
 ---
 
 Preprints:
-1. L. Zhang. A discontinuous Galerkin method for nonlienar biharmonic Schrodinger equations, 2021
+1. L. Zhang. A discontinuous Galerkin method for nonlienar biharmonic Schrodinger equations, 2021,[Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics)
 2. L. Zhang. An energy based discontinuous Galerkin method for wave equations in fourth-order form, 2021
 3. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021
 
