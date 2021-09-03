@@ -20,7 +20,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricons
   - {title: "CV"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "publication.md", title: "Publication"}
-  - {file: "other.md", title: "others"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lz2784@columbia.edu"}
