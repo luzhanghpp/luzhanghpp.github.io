@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I am a Ju Tang Chu and Wu Ping Chu Assistant professor at the Department of Applied Physics and Applied Mathematics in Columbia University, working under the mentoship of [Kui Ren](http://www.columbia.edu/~kr2002/).
+I am a Ju Tang Chu and Wu Ping Chu Assistant professor at the [Department of Applied Physics and Applied Mathematics](https://www.apam.columbia.edu) in [Columbia University](https://www.columbia.edu), working under the mentoship of [Kui Ren](http://www.columbia.edu/~kr2002/).
 
 I obtain Master’s in Computational and Applied Mathematics in 2017 and a Ph.D. in Computational and Applied Mathematics in 2020 from the Department of Mathematics at Southern Methodist University, under the supervision of [Thomas Hagstrom](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/ThomasHagstrom)
 
