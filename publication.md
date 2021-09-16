@@ -5,8 +5,8 @@ title: ""
 
 Preprints:
 1. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021, [link](https://arxiv.org/abs/2105.11515)
-2. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, 2021, submitted
-3. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, 2021, submitted
+2. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, 2021, [link](https://arxiv.org/abs/2109.07033)
+3. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, 2021, [link](https://arxiv.org/abs/2109.07034)
 
 Papers:
 1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on Comm. Appl. Math. Comput, [link](https://arxiv.org/abs/2105.01722)
