@@ -9,7 +9,7 @@ Preprints:
 3. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, 2021, [link](https://arxiv.org/abs/2109.07034)
 
 Papers:
-1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on Comm. Appl. Math. Comput, [link](https://arxiv.org/abs/2105.01722)
+1. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, 2021, to appear on \underlin{Comm. Appl. Math. Comput}, [link](https://arxiv.org/abs/2105.01722)
 2. N. Rodriguez, Q. Wang, and L. Zhang. Understanding the effects of on- and off-hotspot policing: Evidence of hotspot, oscillating and chaotic activities, 2021, to appear on SIAM J. Appl. Dyn. Syst, [link](https://epubs.siam.org/doi/abs/10.1137/20M1339702?journalCode=sjoce3)
 3. L. Zhang, S. Wang and N.A. Petersson. Elastic wave propagation in curvilinear coordinates with mesh refinement interfaces by a fourth order finite difference method, SIAM J. Sci. Comput., 43(2), A1472-A1496 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1339702?journalCode=sjoce3)
 4. D. Appelo, T. Hagstrom, Q. Wang and L. Zhang. An energy-based discontinuous Galerkin method for semilinear wave equations, J. Comput. Phys., 418(2020), [link](https://www.sciencedirect.com/science/article/pii/S002199912030382X?via%3Dihub)
