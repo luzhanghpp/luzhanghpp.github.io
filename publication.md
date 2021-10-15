@@ -7,7 +7,7 @@ Preprints:
 1. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, 2021, [link](https://arxiv.org/abs/2105.11515)
 2. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, 2021, [link](https://arxiv.org/abs/2109.07033)
 3. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, 2021, [link](https://arxiv.org/abs/2109.07034)
-4. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, 2021, [link](https://arxiv.org/abs/2109.07034)
+4. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, 2021, [link](https://arxiv.org/abs/2110.07099)
 
 Papers:
 1. N. Rodriguez, Q. Wang, and L. Zhang. Understanding the effects of on- and off-hotspot policing: Evidence of hotspot, oscillating and chaotic activities, SIAM J. Appl. Dyn. Syst.,20(4), 1882-1916 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1359572)
