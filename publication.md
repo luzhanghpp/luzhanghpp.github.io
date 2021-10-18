@@ -22,4 +22,4 @@ Papers:
 10. Q. Wang, L. Zhang, J. Yang and J. Hu. Global existence and steady states of a two competing species Keller–Segel chemotaxis model, Kinet. Relat. Models, 8(4), 777-807(2015), [link](http://www.aimsciences.org/article/doi/10.3934/krm.2015.8.777)
 
 Conference Proceeding
-1. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin Methods for Electromagnetic Waves in Dispersive Media, 2021, submitted
+1. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin Methods for Electromagnetic Waves in Dispersive Media, 2021 International Applied Computational Electromagnetics Society Symposium (ACES), 2021, pp.1-4, [link](https://ieeexplore.ieee.org/document/9528750)
