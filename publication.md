@@ -4,13 +4,13 @@ title: ""
 ---
 
 Preprints:
-1. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, 2021, [link](https://arxiv.org/abs/2109.07033)
-2. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, 2021, [link](https://arxiv.org/abs/2109.07034)
-3. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, 2021, [link](https://arxiv.org/abs/2110.07099)
-4. W. Ding, K. Ren and L. Zhang. Coupling Deep Learning with Full Waveform Inversion, 2022, [link](https://arxiv.org/abs/2203.01799)
+1. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, [link](https://arxiv.org/abs/2109.07033)
+2. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034)
+3. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, [link](https://arxiv.org/abs/2110.07099)
+4. W. Ding, K. Ren and L. Zhang. Coupling Deep Learning with Full Waveform Inversion, [link](https://arxiv.org/abs/2203.01799)
 
 Papers:
-1. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, accepted by SIAM J. Numer. Anal., 2022, [link](https://arxiv.org/abs/2105.11515)
+1. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, accepted by SIAM J. Numer. Anal., 60(3), 1516-1547 (2022), [link](https://epubs.siam.org/doi/10.1137/21M1422586)
 2. N. Rodriguez, Q. Wang, and L. Zhang. Understanding the effects of on- and off-hotspot policing: Evidence of hotspot, oscillating and chaotic activities, SIAM J. Appl. Dyn. Syst.,20(4), 1882-1916 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1359572)
 3. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, Comm. Appl. Math. Comput. (2021), [link](https://doi.org/10.1007/s42967-021-00149-y)
 4. L. Zhang, S. Wang and N.A. Petersson. Elastic wave propagation in curvilinear coordinates with mesh refinement interfaces by a fourth order finite difference method, SIAM J. Sci. Comput., 43(2), A1472-A1496 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1339702?journalCode=sjoce3)
