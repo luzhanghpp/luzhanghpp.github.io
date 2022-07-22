@@ -4,7 +4,7 @@ title: ""
 ---
 
 Preprints:
-1. L. Zhang. An energy-based discontinuous Galerkin method for dynamic Euler-Bernoulli beam equations, [link](https://arxiv.org/abs/2109.07033)
+1. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033)
 2. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034)
 3. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, [link](https://arxiv.org/abs/2110.07099)
 4. W. Ding, K. Ren and L. Zhang. Coupling Deep Learning with Full Waveform Inversion, [link](https://arxiv.org/abs/2203.01799)
