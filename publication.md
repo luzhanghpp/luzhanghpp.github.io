@@ -4,7 +4,8 @@ title: ""
 ---
 
 Data-Driven Computational Inversion:
-1. W. Ding, K. Ren and L. Zhang. Coupling Deep Learning with Full Waveform Inversion, [link](https://arxiv.org/abs/2203.01799)
+1. K. Ren and L. Zhang. Data-Driven Joint Inversions for PDE Models, [link](https://arxiv.org/abs/2210.09228)
+2. W. Ding, K. Ren and L. Zhang. Coupling Deep Learning with Full Waveform Inversion, [link](https://arxiv.org/abs/2203.01799)
 
 High-order Accuracy Methods for Wave Propagation:
 1. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033)
