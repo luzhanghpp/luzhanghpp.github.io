@@ -10,7 +10,7 @@ Data-Driven Computational Inversion:
 High-order Accuracy Methods for Wave Propagation:
 1. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033)
 2. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034)
-3. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, to appear in BIT Numer. Math. (2022) [link](https://arxiv.org/abs/2110.07099)
+3. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An Energy-Based Discontinuous Galerkin Method with Tame CFL Numbers for the Wave Equation, accepted by BIT Numer. Math. (2022) [link](https://arxiv.org/abs/2110.07099)
 4. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, SIAM J. Numer. Anal., 60(3), 1516-1547 (2022), [link](https://epubs.siam.org/doi/10.1137/21M1422586)
 5.  T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin Methods for Electromagnetic Waves in Dispersive Media, 2021 International Applied Computational Electromagnetics Society Symposium (ACES), pp.1-4(2021), [link](https://ieeexplore.ieee.org/document/9528750)
 6. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, Comm. Appl. Math. Comput. (2021), [link](https://doi.org/10.1007/s42967-021-00149-y)
