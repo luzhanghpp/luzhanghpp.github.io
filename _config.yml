@@ -1,6 +1,6 @@
 title: "Lu Zhang"
 author: "Lu Zhang"
-description: "Columbia University"
+description: "Rice University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricons
   - {file: "publication.md", title: "Publication"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:lz2784@columbia.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:lz82@rice.edu"}
   - {title: Github, icon: github, url: "https://github.com/luzhanghpp"}
 
 comments:
