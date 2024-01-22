@@ -8,7 +8,7 @@ Data-Driven Computational Inversion:
 2. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
 
 High-order Accuracy Methods for Wave Propagation:
-1. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schr$\backslash$" odinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474)
+1. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474)
 2. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072)
 3. L. Zhang. A discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034)
 4. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), to appear in IMA J. Numeri. Anal.
