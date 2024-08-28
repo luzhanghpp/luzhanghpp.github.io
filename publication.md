@@ -3,23 +3,26 @@ layout: page
 title: ""
 ---
 
-Data-Driven Computational Inversion:
+Data-Driven Computations:
 1. K. Ren and L. Zhang. Data-driven joint inversions for PDE models, [link](https://arxiv.org/abs/2210.09228)
 2. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
+3. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, submitted
 
-High-order Accuracy Methods for Wave Propagation:
-1. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072)
-2. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474), to appear in SIAM J. Numer. Anal.
-3. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034), to appear in ESAIM: M2AN
-4. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), to appear in IMA J. Numeri. Anal.
-5. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An energy-based discontinuous Galerkin method with Tame CFL numbers for the wave equation, BIT Numer. Math., 63(1), 5, (2023), [link](https://link.springer.com/article/10.1007/s10543-023-00954-2)
-6. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, SIAM J. Numer. Anal., 60(3), 1516-1547 (2022), [link](https://epubs.siam.org/doi/10.1137/21M1422586)
-7. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin methods for electromagnetic waves in dispersive media, 2021 International Applied Computational Electromagnetics Society Symposium (ACES), pp.1-4(2021), [link](https://ieeexplore.ieee.org/document/9528750)
-8. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, Comm. Appl. Math. Comput. (2021), [link](https://doi.org/10.1007/s42967-021-00149-y)
-9. L. Zhang, S. Wang and N.A. Petersson. Elastic wave propagation in curvilinear coordinates with mesh refinement interfaces by a fourth order finite difference method, SIAM J. Sci. Comput., 43(2), A1472-A1496 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1339702?journalCode=sjoce3)
-10. D. Appelo, T. Hagstrom, Q. Wang and L. Zhang. An energy-based discontinuous Galerkin method for semilinear wave equations, J. Comput. Phys., 418(2020), [link](https://www.sciencedirect.com/science/article/pii/S002199912030382X?via%3Dihub)
-11. L. Zhang, T. Hagstrom and D. Appelo. An energy-based discontinuous Galerkin method for the wave equation with advection, SIAM J. Numer. Anal., 57(5), 2469-2492(2019), [link](https://epubs.siam.org/doi/abs/10.1137/19M1242720)
-12. Y. Du, L. Zhang and Z. Zhang. Convergence analysis of a discontinuous Galerkin method for wave equations in second-order form, SIAM J. Numer. Anal., 57(1), 238-265(2019), [link](https://epubs.siam.org/doi/abs/10.1137/18M1190495)
+High-order Accurate Methods:
+1. L. Zhang. A fully discrete ultraweak-local discontinuous Galerkin method for nonlinear time-fractional fourth-order PDEs, submitted
+2. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations, submitted
+3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072)
+4. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474), to appear in SIAM J. Numer. Anal.
+5. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034), to appear in ESAIM: M2AN
+6. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), to appear in IMA J. Numeri. Anal.
+7. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An energy-based discontinuous Galerkin method with Tame CFL numbers for the wave equation, BIT Numer. Math., 63(1), 5, (2023), [link](https://link.springer.com/article/10.1007/s10543-023-00954-2)
+8. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, SIAM J. Numer. Anal., 60(3), 1516-1547 (2022), [link](https://epubs.siam.org/doi/10.1137/21M1422586)
+9. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin methods for electromagnetic waves in dispersive media, 2021 International Applied Computational Electromagnetics Society Symposium (ACES), pp.1-4(2021), [link](https://ieeexplore.ieee.org/document/9528750)
+10. L. Zhang, D. Appelo and T. Hagstrom. Energy-based discontinuous Galerkin difference methods for second-order wave equations, Comm. Appl. Math. Comput. (2021), [link](https://doi.org/10.1007/s42967-021-00149-y)
+11. L. Zhang, S. Wang and N.A. Petersson. Elastic wave propagation in curvilinear coordinates with mesh refinement interfaces by a fourth order finite difference method, SIAM J. Sci. Comput., 43(2), A1472-A1496 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1339702?journalCode=sjoce3)
+12. D. Appelo, T. Hagstrom, Q. Wang and L. Zhang. An energy-based discontinuous Galerkin method for semilinear wave equations, J. Comput. Phys., 418(2020), [link](https://www.sciencedirect.com/science/article/pii/S002199912030382X?via%3Dihub)
+13. L. Zhang, T. Hagstrom and D. Appelo. An energy-based discontinuous Galerkin method for the wave equation with advection, SIAM J. Numer. Anal., 57(5), 2469-2492(2019), [link](https://epubs.siam.org/doi/abs/10.1137/19M1242720)
+14. Y. Du, L. Zhang and Z. Zhang. Convergence analysis of a discontinuous Galerkin method for wave equations in second-order form, SIAM J. Numer. Anal., 57(1), 238-265(2019), [link](https://epubs.siam.org/doi/abs/10.1137/18M1190495)
 
 Mathematical Biology:
 1. N. Rodriguez, Q. Wang, and L. Zhang. Understanding the effects of on- and off-hotspot policing: Evidence of hotspot, oscillating and chaotic activities, SIAM J. Appl. Dyn. Syst.,20(4), 1882-1916 (2021), [link](https://epubs.siam.org/doi/abs/10.1137/20M1359572)
