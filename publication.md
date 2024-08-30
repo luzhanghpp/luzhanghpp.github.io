@@ -11,7 +11,7 @@ Data-Driven Computations:
 High-order Accurate Methods:
 1. L. Zhang. A fully discrete ultraweak-local discontinuous Galerkin method for nonlinear time-fractional fourth-order PDEs, submitted
 2. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations, submitted
-3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072)
+3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072), to appear in J. Sci. Comput.
 4. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474), to appear in SIAM J. Numer. Anal.
 5. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034), to appear in ESAIM: M2AN
 6. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), to appear in IMA J. Numeri. Anal.
