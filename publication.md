@@ -8,7 +8,7 @@ Data-Driven Computations:
 2. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
 3. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, preprint
 
-High-order Accurate Methods:
+High-order Numerical Methods:
 1. Q. Wang, L. Zhang. An energy-based discontinuous Galerkin method for stochastic wave equations, preprint
 2. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations, preprint
 3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34 (2024)
