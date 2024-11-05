@@ -6,15 +6,15 @@ title: ""
 Data-Driven Computations:
 1. K. Ren and L. Zhang. Data-driven joint inversions for PDE models, [link](https://arxiv.org/abs/2210.09228)
 2. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
-3. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, submitted
+3. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, preprint
 
 High-order Accurate Methods:
-1. L. Zhang. A fully discrete ultraweak-local discontinuous Galerkin method for nonlinear time-fractional fourth-order PDEs, submitted
-2. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations, submitted
-3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://arxiv.org/abs/2305.00072), to appear in J. Sci. Comput.
-4. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://arxiv.org/abs/2311.06474), to appear in SIAM J. Numer. Anal.
-5. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://arxiv.org/abs/2109.07034), to appear in ESAIM: M2AN
-6. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), to appear in IMA J. Numeri. Anal.
+1. Q. Wang, L. Zhang. An energy-based discontinuous Galerkin method for stochastic wave equations, preprint
+2. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations, preprint
+3. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34 (2024)
+4. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://epubs.siam.org/doi/full/10.1137/23M1597496), SIAM J. Numer. Anal. (62)6, 2024
+5. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 58, 1725–1754 (2024) 
+6. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://arxiv.org/abs/2109.07033), IMA J. Numeri. Anal. 44(5), 2793-2820 (2024)
 7. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An energy-based discontinuous Galerkin method with Tame CFL numbers for the wave equation, BIT Numer. Math., 63(1), 5, (2023), [link](https://link.springer.com/article/10.1007/s10543-023-00954-2)
 8. L. Zhang and S. Wang. A high order finite difference method for the elastic wave equation in bounded anisotropic and discontinuous media, SIAM J. Numer. Anal., 60(3), 1516-1547 (2022), [link](https://epubs.siam.org/doi/10.1137/21M1422586)
 9. T. Hagstrom, D. Appelo, and L. Zhang. Discontinuous Galerkin methods for electromagnetic waves in dispersive media, 2021 International Applied Computational Electromagnetics Society Symposium (ACES), pp.1-4(2021), [link](https://ieeexplore.ieee.org/document/9528750)
