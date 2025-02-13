@@ -7,7 +7,7 @@ Mean-Field Games:
 1. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games, preprint
 
 Data-Driven Computations:
-1. K. Ren and L. Zhang. Data-driven joint inversions for PDE models, [link](https://arxiv.org/abs/2210.09228)
+1. K. Ren and L. Zhang. A model-consistent data-driven computational strategy for PDE joint inversion problems, [link](https://arxiv.org/abs/2210.09228)
 2. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
 3. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, preprint
 
