@@ -13,13 +13,13 @@ Under Review:
 
 2024:
 
-17. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://academic.oup.com/imajna/article/44/5/2793/7317722), IMA J. Numeri. Anal. 44(5), 2793-2820 
-16. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 58, 1725–1754 
-15. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://epubs.siam.org/doi/full/10.1137/23M1597496), SIAM J. Numer. Anal. (62)6, 2459-2483 
-14. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34 
+17. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 58, 1725–1754 
+16. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://epubs.siam.org/doi/full/10.1137/23M1597496), SIAM J. Numer. Anal. (62)6, 2459-2483 
+15. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34 
 
 2023:
 
+14. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://academic.oup.com/imajna/article/44/5/2793/7317722), IMA J. Numeri. Anal. 44(5), 2793-2820 
 13. D. Appelo, L. Zhang, T. Hagstrom and F. Li. An energy-based discontinuous Galerkin method with Tame CFL numbers for the wave equation, BIT Numer. Math., 63(1), 5, [link](https://link.springer.com/article/10.1007/s10543-023-00954-2)
 
 2022:
