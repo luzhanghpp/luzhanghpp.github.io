@@ -4,15 +4,16 @@ title: ""
 ---
 
 Under Review:
-
-22. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations
-21. K. Ren and L. Zhang. A model-consistent data-driven computational strategy for PDE joint inversion problems, [link](https://arxiv.org/abs/2210.09228)
-20. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799)
-19. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers
-18. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
+25. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems
+24. L. Liu, L. Zhang and A. Gelb. Neural entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws
+23. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations
+22. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers
+21. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
+20. Y. Pan, Q. Wang and L. Zhang. Identification of nonconcave aggregate production functions in spatial Solow models with technology diffusion
 
 Published:
-
+19. K. Ren and L. Zhang. A model-consistent data-driven computational strategy for PDE joint inversion problems, [link](https://www.sciencedirect.com/science/article/pii/S0021999125005157?dgcid=coauthor), J. Comput. Phys., 2025
+18. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799), to appear on Handb. Numer. Anal. 2025
 17. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 58, 1725–1754, 2024 
 16. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://epubs.siam.org/doi/full/10.1137/23M1597496), SIAM J. Numer. Anal. (62)6, 2459-2483, 2024 
 15. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34, 2024 
