@@ -9,7 +9,7 @@ I obtained a Master’s in Computational and Applied Mathematics in 2017 and a P
 
 My research interests are numerical and theoretical analysis of Partial Differential Equations (PDEs), applied mathematics, and seismic imaging in general. In particular, I focus on developing high-order discontinuous Galerkin methods in studying various PDEs with physical and biological backgrounds, such as advective wave equations, semi-linear wave equations, chemotaxis models, population dynamics models, etc. PDEs serve as the fundamental languages that describe the spatial-temporal dynamics of the phenomena within the physical and biological sciences. The challenges brought by the structural complexity and computational intensity within these dynamics call for the applications and development of high-order, computationally efficient and energy-stable numerical methods. Theoretical analysis of these systems also yields insights into and contributes to the understanding of the continuum system. I am also working on developing efficient and robust algorithms for inverse problems.
 
-My research is supported by NSF ([DMS-2231482](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231482&HistoricalAwards=false), [DMS-2513924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2513924&HistoricalAwards=false)), and Simons Foundation through travel support for mathematicians.
+My research is supported by NSF ([DMS-2231482](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231482&HistoricalAwards=false), [DMS-2513924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2513924&HistoricalAwards=false)), Simons Foundation through travel support for mathematicians, and Ken Kennedy Institute at Rice University.
 
 
 
