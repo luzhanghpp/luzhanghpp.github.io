@@ -4,6 +4,7 @@ title: ""
 ---
 
 Under Review:
+26. L. Liu, L. Zhang and A. Gelb. Parametric hyperbolic conservation laws: A unified framework for conservation, entropy stability, and hyperbolicity
 25. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems
 24. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations
 23. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
