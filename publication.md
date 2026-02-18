@@ -11,7 +11,7 @@ Under Review:
 
 Published:
 22. L. Liu, L. Zhang and A. Gelb. Neural entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws, [link](https://doi.org/10.1016/j.jcp.2026.114719), J. Comput. Phys., 2026 
-21. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, accepted by J. Finance and Data Sci.
+21. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, [link](https://doi.org/10.1016/j.jfds.2026.100176), J. Finance and Data Sci.
 20. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://arxiv.org/abs/2203.01799), accepted by Handb. Numer. Anal. 
 19. Y. Pan, Q. Wang and L. Zhang. Identification of nonconcave aggregate production functions in spatial Solow models with technology diffusion, [link](https://epubs.siam.org/doi/full/10.1137/24M1700570), SIAM J. Appl. Math., 2026
 18. K. Ren and L. Zhang. A model-consistent data-driven computational strategy for PDE joint inversion problems, [link](https://www.sciencedirect.com/science/article/pii/S0021999125005157?dgcid=coauthor), J. Comput. Phys., 2025
