@@ -9,7 +9,7 @@ Under Review:
 24. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
 
 Published:
-23. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://arxiv.org/abs/2507.09401), accepted by ESAIM: M2AN, 2026
+23. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://doi.org/10.1051/m2an/2026040), ESAIM: M2AN, 2026
 22. L. Liu, L. Zhang and A. Gelb. Neural entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws, [link](https://doi.org/10.1016/j.jcp.2026.114719), J. Comput. Phys., 2026 
 21. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, [link](https://doi.org/10.1016/j.jfds.2026.100176), J. Finance and Data Sci., 2026
 20. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://doi.org/10.1016/bs.hna.2026.03.006), Handb. Numer. Anal., 2026 
