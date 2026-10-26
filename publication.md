@@ -4,7 +4,8 @@ title: ""
 ---
 
 Under Review:
-30. Y. Wang and L. Zhang. An energy-based discontinuous Galerkin method for the Westervelt equation with absorbing boundary conditions
+31. Y. Wang and L. Zhang. An energy-based discontinuous Galerkin method for the Westervelt equation with absorbing boundary conditions
+30. C. Garcia-Cardona, S. Liu, F. Terzioglu, S. Tong and L. Zhang. An exploration of plug-and-play flow matching for full-waveform inversion on breast imaging
 29. L. Zhang, D. Appelo and T. Hagstrom. The energy-based discontinuous Galerkin method for a nonlinear wave equation
 28. J. Liu, Q. Wang and L. Zhang. Do Sobolev Density Expansions Improve Option Pricing? 
 27. L. Liu, L. Zhang and A. Gelb. Parametric hyperbolic conservation laws: A unified framework for conservation, entropy stability, and hyperbolicity
