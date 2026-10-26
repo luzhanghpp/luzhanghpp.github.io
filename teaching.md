@@ -4,7 +4,7 @@ title: ""
 ---
 
 Undergraduate-level courses:
-1. Instructor for CMOR 304: Differential Equations in Science and Engineering (Fall 2027)
+1. Instructor for CMOR 304: Differential Equations in Science and Engineering (Fall 2026)
 
 Graduate-level courses:
 1. Instructor for CMOR 523: Numerical Methods for PDEs (Spring 2024, Spring 2025, Spring 2026 at Rice)
