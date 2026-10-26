@@ -3,9 +3,6 @@ layout: page
 title: ""
 ---
 
-Undergraduate-level courses:
-1. Instructor for CMOR 304: Differential Equations in Science and Engineering (Fall 2026 at Rice)
-
 Graduate-level courses:
 1. Instructor for CMOR 523: Numerical Methods for PDEs (Spring 2024, Spring 2025, Spring 2026 at Rice)
 2. Instructor for CMOR 524: Advanced Numerical Analysis (Fall 2023, Fall 2024, Fall 2025 at Rice)
@@ -15,10 +12,11 @@ Graduate-level courses:
 6. Instructor for APMA E4001: Principles of Applied Mathematics (Fall 2020 at Columbia)
 
 Undergraduate-level courses:
-1. Teaching Assistant for Math 3315: Introduction to Scientific Computing (Spring 2019 at SMU)
-2. Teaching Assistant for Math 4337: Boundary Value Problems and Partial Differential Equations (Spring 2019 at SMU)
-3. Teaching Assistant for Math 1307: Introduction to Mathematical Sciences (Fall 2016, Spring 2017 at SMU)
-4. Teaching Assistant for Math 3353: Introduction to Linear Algebra (Spring 2016 at SMU)
-5. Teaching Assistant for Math 1309: Introduction to Calculus for Business and Social Science (Fall 2015 at SMU)
+1. Instructor for CMOR 304: Differential Equations in Science and Engineering (Fall 2026 at Rice)
+2. Teaching Assistant for Math 3315: Introduction to Scientific Computing (Spring 2019 at SMU)
+3. Teaching Assistant for Math 4337: Boundary Value Problems and Partial Differential Equations (Spring 2019 at SMU)
+4. Teaching Assistant for Math 1307: Introduction to Mathematical Sciences (Fall 2016, Spring 2017 at SMU)
+5. Teaching Assistant for Math 3353: Introduction to Linear Algebra (Spring 2016 at SMU)
+6. Teaching Assistant for Math 1309: Introduction to Calculus for Business and Social Science (Fall 2015 at SMU)
 
 
