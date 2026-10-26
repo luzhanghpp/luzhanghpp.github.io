@@ -12,14 +12,14 @@ Under Review:
 25. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
 
 Published:
-24. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://doi.org/10.1051/m2an/2026040), ESAIM: M2AN, 60, 1575-1599, 2026
-23. Q. Wang, Y. Song, and L. Zhang. Optimal investment-consumption under Epstein--Zin recursive utility in regime-switching markets with transaction cost, [link](https://doi.org/10.1093/imamci/dnag010), IMA J. Math. Control. Inf. 43(3), 1-33, 2026
+24. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://doi.org/10.1051/m2an/2026040), ESAIM: M2AN, 2026
+23. Q. Wang, Y. Song, and L. Zhang. Optimal investment-consumption under Epstein--Zin recursive utility in regime-switching markets with transaction cost, [link](https://doi.org/10.1093/imamci/dnag010), IMA J. Math. Control. Inf., 2026
 22. L. Liu, L. Zhang and A. Gelb. Neural entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws, [link](https://doi.org/10.1016/j.jcp.2026.114719), J. Comput. Phys., 2026 
 21. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, [link](https://doi.org/10.1016/j.jfds.2026.100176), J. Finance and Data Sci., 2026
 20. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://doi.org/10.1016/bs.hna.2026.03.006), Handb. Numer. Anal., 2026 
 19. Y. Pan, Q. Wang and L. Zhang. Identification of nonconcave aggregate production functions in spatial Solow models with technology diffusion, [link](https://epubs.siam.org/doi/full/10.1137/24M1700570), SIAM J. Appl. Math., 2026
 18. K. Ren and L. Zhang. A model-consistent data-driven computational strategy for PDE joint inversion problems, [link](https://www.sciencedirect.com/science/article/pii/S0021999125005157?dgcid=coauthor), J. Comput. Phys., 2025
-17. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 58, 1725–1754, 2024 
+17. Q. Wang, L. Zhang. An ultraweak-local discontinuous Galerkin method for nonlinear biharmonic Schrödinger equations, [link](https://www.esaim-m2an.org/articles/m2an/pdf/2024/05/m2an230135.pdf), ESAIM: M2AN, 2024 
 16. K. Ren, L. Zhang, Y. Zhou. An energy-based discontinuous Galerkin method for the nonlinear Schrodinger equation with wave operator, [link](https://epubs.siam.org/doi/full/10.1137/23M1597496), SIAM J. Numer. Anal. (62)6, 2459-2483, 2024 
 15. Q. Du, H. Li, M. Weinstein, L. Zhang. Discontinuous Galerkin methods for a first-order semi-linear hyperbolic continuum model of a topological resonator dimer array, [link](https://link.springer.com/article/10.1007/s10915-024-02675-2), J. Sci. Comput. 101(3), 1-34, 2024 
 14. L. Zhang. A local energy-based discontinuous Galerkin method for fourth order semilinear wave equations, [link](https://academic.oup.com/imajna/article/44/5/2793/7317722), IMA J. Numeri. Anal. 44(5), 2793-2820, 2023
