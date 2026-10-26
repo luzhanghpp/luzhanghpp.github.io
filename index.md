@@ -11,7 +11,7 @@ My research interests are numerical and theoretical analysis of Partial Differen
 
 My research is supported by NSF ([DMS-2231482](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2231482&HistoricalAwards=false), [DMS-2513924](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2513924&HistoricalAwards=false)), Simons Foundation through travel support for mathematicians, and Ken Kennedy Institute at Rice University.
 
-Hiring: We are seeking a postdoctoral researcher with a strong background in numerical methods for PDEs, PDE-based inverse problems, or scientific machine learning to join our research group. For more information and application instructions, please see the [MathJobs posting](https://www.mathjobs.org/jobs?joblst-395-28957). Review of applications will begin on December 1, 2026.
+<span style="color: #c62828; font-weight: bold;">Hiring:</span>: We are seeking a postdoctoral researcher with a strong background in numerical methods for PDEs, PDE-based inverse problems, or scientific machine learning to join our research group. For more information and application instructions, please see the [MathJobs posting](https://www.mathjobs.org/jobs?joblst-395-28957). Review of applications will begin on December 1, 2026.
 
 
 
