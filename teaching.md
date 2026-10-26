@@ -3,9 +3,12 @@ layout: page
 title: ""
 ---
 
+Undergraduate-level courses:
+1. Instructor for CMOR 304: Differential Equations in Science and Engineering (Fall 2027)
+
 Graduate-level courses:
-1. Instructor for CMOR 523: Numerical methods for PDEs (Spring 2024, Spring 2025, Spring 2026 at Rice)
-2. Instructor for CMOR 524: Advance Numerical Analysis (Fall 2023, Fall 2024, Fall 2025 at Rice)
+1. Instructor for CMOR 523: Numerical Methods for PDEs (Spring 2024, Spring 2025, Spring 2026 at Rice)
+2. Instructor for CMOR 524: Advanced Numerical Analysis (Fall 2023, Fall 2024, Fall 2025 at Rice)
 3. Instructor for APMA E4302: Methods in Computational Science (Spring 2023 at Columbia)
 4. Instructor for APMA E6302: Numerical Analysis of PDE's (Spring 2022 at Columbia)
 5. Instructor for APMA E4990: Numerical Analysis and Optimization (Spring 2021, Fall 2021, Fall 2022 at Columbia)
