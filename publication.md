@@ -4,15 +4,16 @@ title: ""
 ---
 
 Under Review:
-29. Y. Wang and L. Zhang. An energy-based discontinuous Galerkin method for the Westervelt equation with absorbing boundary conditions
-28. L. Zhang, D. Appelo and T. Hagstrom. The energy-based discontinuous Galerkin method for a nonlinear wave equation
-27. J. Liu, Q. Wang and L. Zhang. Do Sobolev Density Expansions Improve Option Pricing? 
-26. L. Liu, L. Zhang and A. Gelb. Parametric hyperbolic conservation laws: A unified framework for conservation, entropy stability, and hyperbolicity
-25. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations
-24. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
+30. Y. Wang and L. Zhang. An energy-based discontinuous Galerkin method for the Westervelt equation with absorbing boundary conditions
+29. L. Zhang, D. Appelo and T. Hagstrom. The energy-based discontinuous Galerkin method for a nonlinear wave equation
+28. J. Liu, Q. Wang and L. Zhang. Do Sobolev Density Expansions Improve Option Pricing? 
+27. L. Liu, L. Zhang and A. Gelb. Parametric hyperbolic conservation laws: A unified framework for conservation, entropy stability, and hyperbolicity
+26. L. Zhang. A fully discrete energy-based discontinuous Galerkin method for variable-order time fractional wave equations
+25. Q. Wang, Y. Xiong and L. Zhang. Well-posedness, convergence and stability of finite difference methods for mean-field games
 
 Published:
-23. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://doi.org/10.1051/m2an/2026040), ESAIM: M2AN, 60, 1575-1599, 2026
+24. Q. Du, K. Ren, L. Zhang and Y. Zhou. A discontinuous Galerkin method for one-dimensional nonlocal wave problems, [link](https://doi.org/10.1051/m2an/2026040), ESAIM: M2AN, 60, 1575-1599, 2026
+23. Q. Wang, Y. Song, and L. Zhang. Optimal investment-consumption under Epstein--Zin recursive utility in regime-switching markets with transaction cost, [link](https://doi.org/10.1093/imamci/dnag010), IMA J. Math. Control. Inf. 43(3), 1-33, 2026
 22. L. Liu, L. Zhang and A. Gelb. Neural entropy-stable conservative flux form neural networks for learning hyperbolic conservation laws, [link](https://doi.org/10.1016/j.jcp.2026.114719), J. Comput. Phys., 2026 
 21. Q. Wang, L. Zhang and Q. Zhang. GARCH-PDE models for option pricing under stochastic volatility and their finite difference solvers, [link](https://doi.org/10.1016/j.jfds.2026.100176), J. Finance and Data Sci., 2026
 20. W. Ding, K. Ren and L. Zhang. Coupling deep learning with full waveform inversion, [link](https://doi.org/10.1016/bs.hna.2026.03.006), Handb. Numer. Anal., 2026 
